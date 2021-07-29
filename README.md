@@ -1,4 +1,4 @@
-[![Lucas' GitHub Banner](GitHubHeader.png)]
+[![Lucas' GitHub Banner](GitHubHeader.png)
 
 Eae 👋
 
