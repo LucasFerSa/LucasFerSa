@@ -1,9 +1,4 @@
 ![Lucas' GitHub Banner](GitHubHeader.png)
-
-### Olá 👋
-
-Atualmente no 2° ano do Ensino Médio e estudante de tecnologias! 💻 Pretendo seguir na área de Tecnologia da informação e atualmente sou curioso em saber sobre todas as áreas 😄 Seja Front-end, back-end, game dev, etc. 🧐
-
 <div>
   <a href="https://github.com/lucasfersa">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfersa&&langs_count=7&theme=tokyonight&hide=TeX&text_color=c9cacc&bg_color=1A2B34&title_color=ffffff"/>
